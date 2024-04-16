@@ -19,10 +19,12 @@
 
 input[name='delay'] {
   margin-top: 8px;
+  padding: 8px 16px;
   border: 1px solid #808080;
   border-radius: 4px;
   width: 360px;
   height: 40px;
+  box-sizing: border-box;
 }
 
 input[name='delay']:hover {
