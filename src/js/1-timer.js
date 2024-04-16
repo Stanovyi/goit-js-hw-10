@@ -27,7 +27,7 @@ const options = {
         messageColor: '#ffffff',
         position: 'topRight',
         color: '#FFFFFF',
-        iconUrl: './src/img/cross-icon.svg',
+        iconUrl: '/cross-icon.svg',
       });
       // button.setAttribute('disabled', '');
     } else {
